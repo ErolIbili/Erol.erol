@@ -61,13 +61,13 @@ img {
 
     .brand-text .line1 {
         font-size: clamp(1.25rem,2.6vw,1.9rem);
-        font-weight: 700;
+        font-weight: 900;
     }
 
     .brand-text .line2 {
-        font-size: clamp(.95rem,2vw,1.25rem);
+        font-size: clamp(.105rem,2vw,2.25rem);
         text-transform: uppercase;
-        letter-spacing: .35em;
+        letter-spacing: .55em;
         margin-top: 2px;
     }
 
@@ -77,7 +77,7 @@ img {
     top: 0;
     left: 0;
     right: 0;
-    z-index: 3000;
+    z-index: 4000;
     display: flex;
     align-items: center;
     justify-content: space-between;
